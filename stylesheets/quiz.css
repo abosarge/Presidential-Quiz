@@ -17,15 +17,14 @@ h2 {
 }
 
 .bluestripes {
-	background-image: url("images/bluewhitestripe.png");
-	background-repeat: repeat;
-	width: 100%;
+	background: url(../images/bluewhitestripe.png) repeat;
 	flex: 1;
 }
 
 .title {
 	flex: 2;
 	text-align: center;
+	line-height: 2.2em;
 }
 
 p {

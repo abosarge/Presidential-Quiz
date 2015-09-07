@@ -1,3 +1,5 @@
+window.addEventListener('load');
+
 var correct = 0;
 
 var questionOne = prompt("Who was the fourth president?");
